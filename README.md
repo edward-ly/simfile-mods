@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2021 Edward Ly <contact@edward.ly>
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 Simple Python scripts for [StepMania](https://github.com/stepmania/stepmania) that can modify simfiles in bulk.
 
 ### Available Scripts
